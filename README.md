@@ -18,7 +18,7 @@ npm install
 
 ## Despliegue 📦
 
-Genere APK, para instalación en un telefono Android
+Genere un APK, para instalación en un telefono Android
 
 ## Construido con 🛠️
 
