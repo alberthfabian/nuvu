@@ -1,4 +1,4 @@
-# Prueba para TempEdge 🚀
+# Prueba para Nuvu 🚀
 
 Prueba para aplicar al cargo de Desarrollador Frontend
 
